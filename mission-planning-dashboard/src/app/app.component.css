@@ -2,3 +2,11 @@
     display: flex;
     padding: 10px;
 }
+
+.horizontalLine {
+    border-style: dotted;
+}
+
+.dashboard {
+    border-style: double;
+}
